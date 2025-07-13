@@ -45,7 +45,7 @@ Check out my full portfolio at [morsycodes.netlify.app](https://morsycodes.netli
 ## 📬 **Let's Connect!**  
 
 - 🌐 **Portfolio**: [morsycodes.netlify.app](https://morsycodes.netlify.app)  
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/abdurrahman-morsy-b62675314)  
+- 💼 **LinkedIn**: [linkedin.com/in/abdurrahman-morsy-b62675314](https://linkedin.com/in/abdurrahman-morsy-b62675314)  
 - 📧 **Email**: abdurrahmanmorsy@gmail.com  
 
 ---
