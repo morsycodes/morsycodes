@@ -20,11 +20,11 @@ Hi! I'm Morsy, a passionate software developer focused on building seamless, res
 
 ## 🚀 **Projects & Contributions**  
 
-### [Eltes: Engineering Team Management Platform](https://eltes.netlify.app)  
-A robust cross-platform system designed for engineers from three leading Turkish banks to manage branch and ATM reports efficiently.  
+### [Fintry](https://fintry.io)  
+A robust cross-platform fintech app that manages all your finances simply in one place! Fintry helps you track your stocks, crypto, ETFs, bonds and all your other investments and savings in one place. With Fintry keeps track of your spendings and provides daily tips on how to save more! And with the help of Fintry's AI chat bot you can always get personalized financial advice that will put you on the right direction! Fintry also tracks the investments of 80+ super investors like Warren Buffett and Bill Ackman and notifys you so you can plan your next stock trade like a professional.
 
-### [Openfair App](https://beta.openfair.app)  
-An AI-powered cross-platform business acquisition solution featuring personalized search, CRM for brokers, and a deal room for acquisitions.  
+### [Openfair](https://openfair.co)  
+An AI-powered cross-platform business acquisition solution featuring personalized AI search, CRM for brokers, and a deal room for acquisitions where you can sign the legal papers and receive your payments without having to leave your bedroom!. With Openfair you can list your business for sale and search through businesses that are up for sale and get in touch with business brokers.   
 
 ### **Other Cross-Platform Apps**  
 I’ve built multiple apps that run seamlessly across mobile, web, and desktop platforms, creating responsive and intuitive experiences for users.  
