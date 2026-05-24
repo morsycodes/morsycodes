@@ -29,7 +29,7 @@ An AI-powered cross-platform business acquisition solution featuring personalize
 ### **Other Cross-Platform Apps**  
 I’ve built multiple apps that run seamlessly across mobile, web, and desktop platforms, creating responsive and intuitive experiences for users.  
 
-Check out my full portfolio at [morsycodes.netlify.app](https://morsycodes.netlify.app).  
+Check out my full portfolio at [morsycodes.netlify.app](https://morsyy.web.app).  
 
 ---
 
