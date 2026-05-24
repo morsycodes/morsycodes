@@ -45,7 +45,7 @@ Check out my full portfolio at [morsyy.web.app](https://morsyy.web.app).
 ## 📬 **Let's Connect!**  
 
 - 🌐 **Portfolio**: [morsyy.web.app](https://morsyy.web.app)  
-- 💼 **LinkedIn**: [linkedin.com/in/abdurrahman-morsy](https://linkedin.com/in/abdurrahman-morsy)  
+- 💼 **LinkedIn**: [linkedin.com/in/abdurrahmanmorsy](https://linkedin.com/in/abdurrahmanmorsy)  
 - 📧 **Email**: abdurrahmanmorsy@gmail.com  
 
 ---
