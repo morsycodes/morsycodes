@@ -35,8 +35,8 @@ Check out my full portfolio at [morsycodes.netlify.app](https://morsyy.web.app).
 
 ## 🔧 **Skills & Tools**  
 
-- **Languages**: Dart, Kotlin, JavaScript, C#
-- **Frameworks & Libraries**: Flutter, Jetpack Compose  
+- **Languages**: Dart, Kotlin, JavaScript, C#, TypeScript
+- **Frameworks & Libraries**: Flutter, React, Jetpack Compose  
 - **Cloud & Backend**: Firebase, Vertex AI, NodeJS, GCP & BigQuery  
 - **Other**: Git, CI/CD, REST APIs, Stripe  
 
