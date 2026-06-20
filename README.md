@@ -1,4 +1,4 @@
-# Hey there, I'm Abdurrahman Morsy! 👋
+# Abdurrahman Morsy
 
 I'm a **Full-Stack Software Engineer & Technical Founder** with over 9 years of experience building and scaling production-grade web and mobile apps. Whether it's architecting a high-scale platform from scratch, training AI agents, or shipping cross-platform mobile apps that users love, I'm all about writing clean code and solving complex, end-to-end problems.
 
@@ -31,4 +31,4 @@ Beyond code, I love the entrepreneurial side of tech—I've built, scaled, and e
 📧 **Email:** abdurrahmanmorsy@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/abdurrahmanmorsy](https://linkedin.com/in/abdurrahmanmorsy)   
 
-🗣️ **Languages I Speak:** English (Fluent) | Turkish (Fluent) | Arabic (Native)
+**Languages I Speak:** English (Fluent) | Turkish (Fluent) | Arabic (Native)
