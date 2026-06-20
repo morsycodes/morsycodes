@@ -1,53 +1,34 @@
-# 💻 Morsy Codes  
-**Flutter Developer | Cross-Platform Specialist**  
+# Hey there, I'm Abdurrahman Morsy! 👋
 
-Hi! I'm Morsy, a passionate software developer focused on building seamless, responsive, and scalable applications across mobile, web, and desktop platforms using **Flutter**.  
+I'm a **Full-Stack Software Engineer & Technical Founder** with over 9 years of experience building and scaling production-grade web and mobile apps. Whether it's architecting a high-scale platform from scratch, training AI agents, or shipping cross-platform mobile apps that users love, I'm all about writing clean code and solving complex, end-to-end problems.
 
----
-
-## 🌟 **About Me**  
-
-- 💡 **Innovator**: I specialize in creating cross-platform apps that solve real-world problems, like **Eltes**, a platform improving engineering workflows, and **Openfair**, a business acquisition solution powered by AI.  
-- 🎯 **Expertise**: Building **responsive cross-platform solutions** with engaging user experiences and efficient architectures.  
-- 🔧 **Technologies**:  
-  - **Frameworks**: Flutter, Dart  
-  - **Backend & Cloud**: Firebase, GCP & BigQuery, Vertex AI  
-  - **Other Tools**: Stripe, OpenAI APIs  
-  - **Additional Skills**: Kotlin, Android Development  
-- 🌱 **Focus**: Building impactful apps and constantly improving my skills.  
+Beyond code, I love the entrepreneurial side of tech—I've built, scaled, and even successfully sold my own products.
 
 ---
 
-## 🚀 **Projects & Contributions**  
-
-### [Fintry](https://fintry.io)  
-A robust cross-platform fintech app that manages all your finances simply in one place! Fintry helps you track your stocks, crypto, ETFs, bonds and all your other investments and savings in one place. With Fintry keeps track of your spendings and provides daily tips on how to save more! And with the help of Fintry's AI chat bot you can always get personalized financial advice that will put you on the right direction! Fintry also tracks the investments of 80+ super investors like Warren Buffett and Bill Ackman and notifys you so you can plan your next stock trade like a professional.
-
-### [Openfair](https://www,openfair.co)  
-An AI-powered cross-platform business acquisition solution featuring personalized AI search, CRM for brokers, and a deal room for acquisitions where you can sign the legal papers and receive your payments without having to leave your bedroom!. With Openfair you can list your business for sale and search through businesses that are up for sale and get in touch with business brokers.   
-
-### **Other Cross-Platform Apps**  
-I’ve built multiple apps that run seamlessly across mobile, web, and desktop platforms, creating responsive and intuitive experiences for users.  
-
-Check out my full portfolio at [morsyy.web.app](https://morsyy.web.app).  
+### 🚀 What I Do Best
+* **Mobile & Frontend:** Flutter, React.js, Next.js, JetPack Compose, SwiftUI, React Native.
+* **Backend & Cloud:** Node.js, Firebase, Google Cloud Platform (GCP), AWS, Flask, MongoDB, PostgreSQL.
+* **AI / Data:** Vertex AI, BigQuery, AI Agents, NLP, LLMs.
+* **Languages:** Python, Java, Dart, TypeScript, JavaScript, C#, Kotlin, Golang.
+* **DevOps & Practices:** Git, CI/CD pipelines, System Design, Agile/Scrum.
 
 ---
 
-## 🔧 **Skills & Tools**  
+### 🛠️ Highlights of My Journey
 
-- **Languages**: Dart, Kotlin, JavaScript, C#, TypeScript
-- **Frameworks & Libraries**: Flutter, React, Jetpack Compose  
-- **Cloud & Backend**: Firebase, Vertex AI, NodeJS, GCP & BigQuery  
-- **Other**: Git, CI/CD, REST APIs, Stripe  
-
----
-
-## 📬 **Let's Connect!**  
-
-- 🌐 **Portfolio**: [morsyy.web.app](https://morsyy.web.app)  
-- 💼 **LinkedIn**: [linkedin.com/in/abdurrahmanmorsy](https://linkedin.com/in/abdurrahmanmorsy)  
-- 📧 **Email**: abdurrahmanmorsy@gmail.com  
+* **Founder Mode:** Built **Awarely** from scratch (React, Flutter, Firebase, Node) and scaled it to **$10K MRR within 6 months** before fully automating the business.
+* **Fintech & Blockchain:** Acted as Staff Engineer at **Schnell Global**, building AI-powered chatbots for portfolio insights, live on-chain DeFi data tracking, and crypto/traditional asset P&L systems.
+* **AI-Powered Acquisitions:** Led a team of 5 as Technical Lead at **Openfair**, where I trained a proprietary AI personalization algorithm on Vertex AI + BigQuery, helping the startup get recognized as one of the fastest-growing in 2024.
+* **Solo Build to Exit:** Entirely built **BookDoor** (a peer-to-peer book marketplace) by myself using Flutter and Firebase, and successfully negotiated its **sale/exit in 2024**.
+* **Enterprise Scaling:** Deployed secure data and reporting platforms across three major Turkish banks (Yapı Kredi, İş Bankası, and DenizBank) at Eltes Corp.
 
 ---
 
-**“Building technology that inspires, connects, and empowers—one platform at a time.”**  
+### 🌐 Let's Connect!
+
+🌍 **Portfolio/Website:** [morsyy.web.app](https://morsyy.web.app)  
+📧 **Email:** abdurrahmanmorsy@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/abdurrahmanmorsy](https://linkedin.com/in/abdurrahmanmorsy)   
+
+🗣️ **Languages I Speak:** English (Fluent) | Turkish (Fluent) | Arabic (Native)
